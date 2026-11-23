@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "https://www.breeze.moe"
+  ],
+  "originsRegex": [
+    "https://[a-z0-9-]+\\.trycloudflare\\.com",
+    "http://127\\.0\\.0\\.1:4016"
+  ]
+}
